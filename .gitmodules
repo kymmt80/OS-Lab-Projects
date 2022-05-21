@@ -1,0 +1,15 @@
+[submodule "lab1"]
+	path = lab1
+	url = https://github.com/kymmt80/OSlab_CA1.git
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/kymmt80/OSlab_CA2.git
+[submodule "lab3"]
+	path = lab3
+	url = https://github.com/kymmt80/OSlab_CA3.git
+[submodule "lab4"]
+	path = lab4
+	url = https://github.com/kymmt80/OSlab_CA4.git
+[submodule "lab5"]
+	path = lab5
+	url = https://github.com/kymmt80/OSlab_CA5.git
